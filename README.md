@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=songtianlun&color=brightgreen)
 
+![Metrics](https://metrics.lecoq.io/songtianlun?template=classic&gists=1&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai)
+
 目前人在郑州，未来想去广州/深圳发展，若有合适机会请联系我。
 
 ## Contact me
