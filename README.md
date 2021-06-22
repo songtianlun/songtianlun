@@ -4,6 +4,8 @@
 
 ![Metrics](https://metrics.lecoq.io/songtianlun?template=classic&gists=1&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai)
 
+![songtianlun's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=songtianlun&layout=compact&hide_border=true&langs_count=10)
+
 目前人在郑州，未来想去广州/深圳发展，若有合适机会请联系我。
 
 ## Contact me
