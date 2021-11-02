@@ -9,7 +9,7 @@
 ![songtianlun's GitHub stats](https://github-readme-stats.vercel.app/api?username=songtianlun&count_private=true)
 
 
-目前人在郑州，未来想去广州/深圳发展，若有合适机会请联系我。
+
 
 ## Contact me
 
