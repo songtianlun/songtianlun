@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=songtianlun&color=brightgreen)
-
-![Metrics](https://metrics.lecoq.io/songtianlun?template=classic&gists=1&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai)
-
 ![songtianlun's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=songtianlun&layout=compact&hide_border=true&langs_count=10)
 
 ![songtianlun's GitHub stats](https://github-readme-stats.vercel.app/api?username=songtianlun&count_private=true)
