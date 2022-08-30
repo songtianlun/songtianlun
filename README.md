@@ -2,11 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=songtianlun&color=brightgreen)
 
-[![songtianlun's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=songtianlun&layout=compact&hide_border=true&langs_count=10)]
-
-[![songtianlun's GitHub stats](https://github-readme-stats.vercel.app/api?username=songtianlun&count_private=true)]
-
-
 
 
 ## Contact me
@@ -17,6 +12,10 @@
 
 <!--
 **songtianlun/songtianlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![songtianlun's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=songtianlun&layout=compact&hide_border=true&langs_count=10)
+
+![songtianlun's GitHub stats](https://github-readme-stats.vercel.app/api?username=songtianlun&count_private=true)
 
 Here are some ideas to get you started:
 
