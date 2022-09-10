@@ -7,7 +7,6 @@
 
 ## Contact me
 
- - Blog: <https://blog.frytea.com>
  - HomePage: <https://www.frytea.com>
  - E-mail: <songtianlun@frytea.com>
 
