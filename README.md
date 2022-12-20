@@ -8,7 +8,6 @@
 ## Contact me
 
  - HomePage: <https://www.frytea.com>
- - E-mail: <songtianlun@frytea.com>
 
 <!--
 **songtianlun/songtianlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
