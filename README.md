@@ -5,6 +5,9 @@
 ![songtianlun's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=songtianlun&layout=compact&hide_border=true&langs_count=6&hide=javascript,html,css,java,c%23,powershell)
 
 
+[![songtianlun's GitHub stats](https://github-readme-stats.vercel.app/api?username=songtianlun)](https://github.com/songtianlun)
+
+
 ## Contact me
 
  - HomePage: <https://www.frytea.com>
