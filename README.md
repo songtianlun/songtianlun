@@ -12,9 +12,9 @@
 
  - HomePage: <https://www.frytea.com>
 
-## My Product:
+## My Product List
 
-- <https://weekcount.com>
+- <https://songtianlun.github.io/>
 
 <!--
 **songtianlun/songtianlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
