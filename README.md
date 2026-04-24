@@ -7,6 +7,7 @@
 ## Contact me
 
  - HomePage: <https://frytea.com>
+ - WeChat: `frytea26`
 
 ## My Product List
 
