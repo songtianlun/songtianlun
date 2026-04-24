@@ -6,13 +6,11 @@
 
 ## Contact me
 
- - HomePage: <https://www.frytea.com>
+ - HomePage: <https://frytea.com>
 
 ## My Product List
 
-- <https://songtianlun.github.io/>
 - <https://ailoft.net/>
-- <https://famous-landmarks.com/>
 
 <!--
 **songtianlun/songtianlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
