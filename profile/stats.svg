@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">TianLun Song's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1003, Total Commits  (last year) : 628, Total PRs: 116, Total Issues: 66, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 1002, Total Commits  (last year) : 628, Total PRs: 116, Total Issues: 66, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 44.86674126520853;
+        stroke-dashoffset: 44.87052259449475;
       }
     }
   
