@@ -14,6 +14,10 @@
 - <https://ailoft.net>
 - <https://rivulet.app>
 
+## Others
+
+- <https://mythologystories.app/>
+
 <!--
 **songtianlun/songtianlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
