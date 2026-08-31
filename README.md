@@ -2,8 +2,6 @@
 
 ![songtianlun's Most used languages](./profile/top-langs.svg)
 
-![songtianlun's GitHub Stats](./profile/stats.svg)
-
 ## Contact me
 
  - HomePage: <https://frytea.com>
