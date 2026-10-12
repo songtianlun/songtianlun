@@ -12,6 +12,7 @@
 - <https://ailoft.net>
 - <https://rivulet.app>
 - [PixelSniff - AI Image Detector](https://pixelsniff.com/)
+- [CraftSuite](https://craftsuite.net/)
 
 ## Others
 
