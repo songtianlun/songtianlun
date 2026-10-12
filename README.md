@@ -13,10 +13,7 @@
 - <https://rivulet.app>
 - [PixelSniff - AI Image Detector](https://pixelsniff.com/)
 - [CraftSuite](https://craftsuite.net/)
-
-## Others
-
-- <https://mythologystories.app/>
+- [MythologyStories](https://mythologystories.app/)
 
 <!--
 **songtianlun/songtianlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
